@@ -4,7 +4,7 @@ import TodoList from './components/Todos/TodoList'
 import TodoForm from './components/Todos/TodoForm'
 import TodosActions from './components/Todos/TodosActions'
 import './App.css'
-import { RiH2 } from 'react-icons/ri'
+// import { RiH2 } from 'react-icons/ri'
 
 function App() {
   const [todos, setTodos] = useState([])
